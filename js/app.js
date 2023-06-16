@@ -146,3 +146,5 @@ function multiplyAnyArray(dynamicArray) {
 testMultiplyAnyArray(testDynamicArray);
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. You're done! Submit the link to the repo following the instructions in Canvas.
+
+//Comment from Yaga: Please note that all codes were done with help of the team. I understand the logic behind problem 1- 5, problem 6 is still tricky to me. I have rewrite it from my peers to train my muscle memory.
